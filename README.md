@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gyaneshwarsuman
 - 👀 I’m interested in MATLAB Coding
-- 🌱 I’m currently learning MATLAB
+- 🌱 I’m currently working as DevOps Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email & Telegram
 
